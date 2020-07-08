@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import { useStackedPagesProvider, LinkToStacked } from 'react-stacked-pages-hook';
 import { Helmet } from 'react-helmet';
+import favicon from '../../favicon.ico';
 
 import BrainNote from './BrainNote';
 
@@ -72,6 +73,7 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
         <title>
           {note.title} - {siteMetadata.title}
         </title>
+        <link rel="icon" href={favicon} />
       </Helmet>
       <header>
         <div className="font-bold py-2 border-b px-4">
