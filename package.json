@@ -12,7 +12,7 @@
     "deploy": "gatsby build --prefix-paths && echo 'www.aeonneo.com' > ./public/CNAME && gh-pages -d public -r git@github.com:YangVincent/aeonneo.git"
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Vincent Yang <vincenty.376@gmail.com> (https://yangvincent.com)",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",

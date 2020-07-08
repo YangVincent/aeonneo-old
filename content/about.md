@@ -7,7 +7,7 @@ behind them.
 
 Thinking about:
 
-* **[[Purpose]]**: How can we best reach our (and help each other reach their) raisons d'être?
+* **[[Purpose]]**: How can we best reach our raisons d'être?
 * **Social Relations**: How might we better understand each other and our motivations?
 * **Content Curation & Consumption**: Why do we consume what we do? If it's to be entertained or to learn, how might we do so optimally?
 How can we balance information overload and having limited time?
