@@ -10,7 +10,7 @@ a list of categories, an intent behind why I care about each category, and
 a way for me to find high quality content to best fulfill the intent. 
 
 For example, one category might be comics, read with the intent to let me relax
-and laugh, so high quality content might come from the Far Side or Calvin & Hobbes.high quality content might come from the Far Side or Calvin & Hobbes.
+and laugh, so high quality content might come from the Far Side or Calvin & Hobbes.
 
 #### Reading
 I read to be entertained for short periods of time (short stories and r/AITA; <20 minutes),
