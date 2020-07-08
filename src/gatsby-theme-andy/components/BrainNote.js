@@ -68,7 +68,7 @@ const BrainNote = ({ note }) => {
       </div>
       <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
         {referenceBlock}
-        <p>If you resonated or disagreed with this, I'd love to hear about it! Please reach out on [Twitter](https://twitter.com/messages/compose?recipient_id=aeonneo376)!</p>
+        <p>If you resonated or disagreed with this, I'd love to hear about it! Please reach out on <a href="https://twitter.com/messages/compose?recipient_id=aeonneo376">Twitter</a>!</p>
       </div>
     </MDXProvider>
   );
