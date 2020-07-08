@@ -9,7 +9,7 @@
     "start": "gatsby develop",
     "clean": "gatsby clean",
     "test": "scripts/test",
-    "deploy": "gatsby build --prefix-paths && echo 'www.aeonneo.com' > ./build/CNAME && gh-pages -d public -r git@github.com:YangVincent/aeonneo.git"
+    "deploy": "gatsby build --prefix-paths && echo 'www.aeonneo.com' > ./public/CNAME && gh-pages -d public -r git@github.com:YangVincent/aeonneo.git"
   },
   "keywords": [],
   "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
