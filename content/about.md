@@ -1,19 +1,24 @@
 ---
-title: About these notes
+title: About
 ---
 
-These are the scattered and unfinished version of my thoughts that run in my head. 
-Have a sneak peak into my brain. 
-These notes don't have an index of all the things I write, so keep clicking through the things you find interesting. 
-And if a note resembles with you, please let me know. If you strongly. disagree in a note, they you should tell me for sure. 
-Send me a [direct message](https://twitter.com/messages/compose?recipient_id=532906019) on [Twitter](https://twitter.com/aravindballa) and we can talk.
+Welcome to my notes! Visit the sites at the bottom to learn about the philosophy
+behind them.
 
-I'm getting into the habit of [[Writing]] again, and as a result, I have a few notes lying around in [Roam](https://roamresearch.com/) and [Notion](https://www.notion.so/?r=3102f5265a104fcab0afd4ec98f0c9dc).
+Thinking about:
 
-Present areas of focus are
+* **[[Purpose]]**: How can we best reach our (and help each other reach their) raisons d'être?
+* **Social Relations**: How might we better understand each other and our motivations?
+* **Content Curation & Consumption**: What's the intent behind our content consumption? If it's to be entertained or to learn, how might we do so optimally?
+How can we balance information overload and having limited time?
+* **Second Brain**: How can we offload things our minds are bad at (memorization, search & retrieval)? Are graph-based notes in a BFS/DFS layout (inspired by [Andy Matsuchak](https://notes.andymatuschak.org/About_these_notes)) 
+a good solution? What if we consumed news, research, and general learning in this way as well?
+* **[[Security]]**: Why is trust bad?
 
-- [[Content Consumption]]
-- [[Security]]
+Enjoying:
+
+* [[Cycling]]
+* [[Snowboarding]]
 
 ---
 
