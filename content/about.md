@@ -24,5 +24,9 @@ Enjoying:
 
 ---
 
+Improving at:
+
+* [[Writing]]
+
 This webpage is inspired by 
 [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) and forked from [Aravind Balla](https://aravindballa.com). 
