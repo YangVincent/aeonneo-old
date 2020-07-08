@@ -1,12 +1,13 @@
 {
-  "name": "@aravindballa/notes",
+  "name": "@aeonneo/notes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$github_token@github.com/yangvincent/aeonneo.git"
   },
   "keywords": [],
   "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
