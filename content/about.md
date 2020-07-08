@@ -2,8 +2,6 @@
 title: About these notes
 ---
 
-Hi, I'm [Vincent Yang](https://www.yangvincent.com)
-
 These are the scattered and unfinished version of my thoughts that run in my head. 
 Have a sneak peak into my brain. 
 These notes don't have an index of all the things I write, so keep clicking through the things you find interesting. 
@@ -14,11 +12,10 @@ I'm getting into the habit of [[Writing]] again, and as a result, I have a few n
 
 Present areas of focus are
 
-- Day job
-- [[Learning Curve]] podcast
-- Creating content
+- [[Content Consumption]]
+- [[Security]]
 
 ---
 
 This webpage is inspired by 
-[Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) and forked from (Aravind Balla)[https://aravindballa.com]. 
+[Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) and forked from [Aravind Balla](https://aravindballa.com). 
