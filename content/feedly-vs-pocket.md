@@ -1,0 +1,5 @@
+---
+title: Feedly vs. Pocket
+---
+
+[Feedly vs. Pocket](https://www.slant.co/versus/555/1455/~pocket_vs_feedly?__cf_chl_jschl_tk__=8d8f3589a60da5e4fb445ed10e184c7860b3e05f-1594259197-0-Adry3zxLK-X30HL0IY_xBR0zCq9TswCKQhVO-Bx0iaT3TQT-xrl8afvac9HKkrMd2g2hrA7vyhJacz0DkV7tTRz_cO090tWJ0b_jLwankTK8uKdvPtvy-IDDXyua5ZyY24k-JXFij3Rzsv40L9lBH_4VpPgm92f8pw8sP7DMSbZNBVL2LAbHUjLBCAdKSQBbjIpWVzQX0YKyaOgWPJdcwbo0H0LaBnawsl_t1YFEpcB2HcyYvhVVIwJVtJobG2AvnIMAp5sgFJEEmG7GfNmITkUbm1SFy7ku8h064Odm1RdJH12sezCV1WLfGCYyxsi-aw).

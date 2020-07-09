@@ -32,10 +32,23 @@ mobile swipe to "Read Later", then sync these marked articles to Pocket. Pocket 
 
 In Feedly, I've separated inputs into categories: Hobbies, Longform, and Other (most popular from all over the web).
 
+[[Feedly vs Pocket]]
+
 ## How can we consume content healthily and efficiently?
+If the intent of consumption is learning, then spaced repetition via [[annotations]] are incredibly helpful.
 
 ### Biphasal Consumption: Sift then Read
 
 ### Intermittent Fasting: Consume in set periods of time
 
+### Converting to Knowledge
+How can we take these inputs and truly learn/understand them, as well as keep them for useful storage in this 
+[[second brain]]? What's a good workflow for advancing generally jotted notes to publicly presentable, useful content?
+
+#### Output
+We can present the content we consume as an [RSS feed with Pocket](https://help.getpocket.com/article/1074-can-i-subscribe-to-my-list-via-rss).
+Alternatively [Twitter RSS feeds](https://rss.app/feeds/yaZPgJX67JQTH3WE.xml) of quick notes seem to also work.
+
 ## How might the UNIX philosophy play in?
+
+
