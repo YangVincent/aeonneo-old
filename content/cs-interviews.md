@@ -7,9 +7,10 @@ title: CS Interviews
 
 ## Overviews
 * You have around an 80% chance of getting an interview by referral, and around 1% if you simply apply online.
-* <a href="https://www.linkedin.com/pulse/best-hire-me-email-ive-seen-from-recent-college-grad-ray-carroll" target="_blank">Writing Emails</a>
-* <a href="https://www.linkedin.com/pulse/why-bad-experiences-happen-good-candidates-vinayak-ranade" target="_blank">Why bad experiences happen to good candidates</a>
-* <a href="https://breakoutcareers.com" target="_blank">Breakout Careers</a>
+* 
+* [Writing Emails](https://www.linkedin.com/pulse/best-hire-me-email-ive-seen-from-recent-college-grad-ray-carroll)
+* [Why bad experiences happen to good candidates](https://www.linkedin.com/pulse/why-bad-experiences-happen-good-candidates-vinayak-ranade)
+* [Breakout Careers](https://breakoutcareers.com)
 * <a href="https://github.com/cassidoo/getting-a-gig" target="_blank">Getting a Gig</a>
 * <a href="https://github.com/DavisCSClub/Handbook" target="_blank">Davis CS Club Handbook</a>
 * <a href="https://github.com/alex-cory/Interviews" target="_blank">Alex Cory Interviews</a>
@@ -210,12 +211,12 @@ title: CS Interviews
   * Add hardware and software
 
 ## Tell the other company to hurry up
-Hi $REPRESENTATIVE\_OF\_OTHER\_COMPANY,<br>
+Hi $REPRESENTATIVE\_OF\_OTHER\_COMPANY,
 I really enjoyed meeting with you on $DATE. As I mentioned in the interview, it would be a pleasure to work with $SMART_PEOPLE on the $VERY_INTERESTING_PROBLEMS that you have.<br>
 I understand that you're considering my application, and these things take time. However, I have an offer deadline from another company on $APPROACHING_DATE. Will it be possible to let me know the team's decision by that time?
-I thank you again for all your time and help. You're doing $EXCITING_THINGS, and I'd love to see if I can be a part of it.<br>
-Best wishes,<br>
-$WHATEVER\_YOUR\_NAME\_IS<br>
+I thank you again for all your time and help. You're doing $EXCITING_THINGS, and I'd love to see if I can be a part of it.
+Best wishes,
+$WHATEVER\_YOUR\_NAME\_IS
 
 ## Other
 * <a href="https://www.quora.com/What-are-Gayle-Laakmann-McDowells-top-resume-evaluation-answers" target="_blank">Gayle Laakmann's Resume Resources</a>
