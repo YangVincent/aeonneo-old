@@ -212,9 +212,9 @@ title: CS Interviews
 
 ## Tell the other company to hurry up
 Hi COMPANYREP
-I really enjoyed meeting with you on $DATE. As I mentioned in the interview, it would be a pleasure to work with $SMART_PEOPLE on the $VERY_INTERESTING_PROBLEMS that you have.<br>
+I really enjoyed meeting with you on $DATE. As I mentioned in the interview, it would be a pleasure to work with $SMART_PEOPLE on the $VERY_INTERESTING_PROBLEMS that you have.
 I understand that you're considering my application, and these things take time. However, I have an offer deadline from another company on $APPROACHING_DATE. Will it be possible to let me know the team's decision by that time?
-I thank you again for all your time and help. You're doing $EXCITING_THINGS, and I'd love to see if I can be a part of it.
+I thank you again for all your time and help. You're doing EXCITING_THINGS, and I'd love to see if I can be a part of it.
 Best wishes,
 YOURNAME
 
