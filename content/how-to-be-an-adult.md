@@ -8,6 +8,7 @@ Welcome to your post-grad 20s!
 * [[Personal Finance]]
 * [[Finding Friends]]
 * Finding Hobbies
+* [[Skincare]]
 
 # Purpose
 To me, the purpose of your 20s is to put yourself in as many different environments and experiences as possible to observe your true personality to see what you truly enjoy or don't. This is helpful for 

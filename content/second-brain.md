@@ -11,3 +11,7 @@ Our brains are good at processing but terrible at storage and recall. Offloading
 
 ## Resources
 * [[How to be an adult]]
+* [[Snowboarding]]
+* [[Cycling]]
+* [[CS Interviews]]
+* [[Career]]
