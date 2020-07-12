@@ -211,15 +211,15 @@ title: CS Interviews
   * Add hardware and software
 
 ## Tell the other company to hurry up
-Hi $REPRESENTATIVE\_OF\_OTHER\_COMPANY,
+Hi COMPANYREP
 I really enjoyed meeting with you on $DATE. As I mentioned in the interview, it would be a pleasure to work with $SMART_PEOPLE on the $VERY_INTERESTING_PROBLEMS that you have.<br>
 I understand that you're considering my application, and these things take time. However, I have an offer deadline from another company on $APPROACHING_DATE. Will it be possible to let me know the team's decision by that time?
 I thank you again for all your time and help. You're doing $EXCITING_THINGS, and I'd love to see if I can be a part of it.
 Best wishes,
-$WHATEVER\_YOUR\_NAME\_IS
+YOURNAME
 
 ## Other
-* <a href="https://www.quora.com/What-are-Gayle-Laakmann-McDowells-top-resume-evaluation-answers" target="_blank">Gayle Laakmann's Resume Resources</a>
+* [Gayle Laakmann's Resume Resources](https://www.quora.com/What-are-Gayle-Laakmann-McDowells-top-resume-evaluation-answers)
 * <a href="http://www.careercup.com/resume" target="_blank">Careercup Technical Resume Guide</a>
 * <a href="https://medium.freecodecamp.com/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48#.eoxwtm8on" target="_blank">Tech internships from non-cs</a>
 * "Handling cash flow and customer relations for a top international company." - Cashier at McDonalds
