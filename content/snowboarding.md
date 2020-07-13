@@ -3,27 +3,27 @@ title: Snowboarding
 ---
 
 ## Important Resources
-* [SBINZ Manual 2017]({{ site.url }}/assets/images/snowboarding/SBINZ_Manual_2017.pdf)
-* [Down Unweighting]({{ site.url }}/assets/images/snowboarding/down-unweighting.pdf)
-* [Up Unweighting]({{ site.url }}/assets/images/snowboarding/up-unweighting.pdf)
-* [Snowmie Down vs UpUnweighting]({{ site.url }}/assets/images/snowboarding/snowmie.pdf)
-* [Material]({{ site.url }}/assets/images/snowboarding/material.pdf)
+* [SBINZ Manual 2017](https://yangvincent.com/assets/images/snowboarding/SBINZ_Manual_2017.pdf)
+* [Down Unweighting](https://yangvincent.com/assets/images/snowboarding/down-unweighting.pdf)
+* [Up Unweighting](https://yangvincent.com/assets/images/snowboarding/up-unweighting.pdf)
+* [Snowmie Down vs UpUnweighting](https://yangvincent.com/assets/images/snowboarding/snowmie.pdf)
+* [Material](https://yangvincent.com/assets/images/snowboarding/material.pdf)
 
 ## Resources for when I'm Better
-* [Carving Axiom]({{ site.url }}/assets/images/snowboarding/carving-axiom.pdf)
-* [Carving Binding]({{ site.url }}/assets/images/snowboarding/carving-binding.pdf)
-* [Carving Inclination]({{ site.url }}/assets/images/snowboarding/carving-inclination.pdf)
-* [Carving Minus Plus]({{ site.url }}/assets/images/snowboarding/carving-minusplus.pdf)
-* [Carving Position]({{ site.url }}/assets/images/snowboarding/carving-position.pdf)
-* [Carving Push n Pull]({{ site.url }}/assets/images/snowboarding/carving-pushnpull.pdf)
-* [Carving Rotation]({{ site.url }}/assets/images/snowboarding/carving-rotation.pdf)
-* [Carving Snowboard]({{ site.url }}/assets/images/snowboarding/carving-snowboard.pdf)
-* [Carving Technique]({{ site.url }}/assets/images/snowboarding/carving-technique.pdf)
-* [Carving Terrain]({{ site.url }}/assets/images/snowboarding/carving-terrain.pdf)
-* [Carving Vertical]({{ site.url }}/assets/images/snowboarding/carving-vertical.pdf)
-* [Carving Laid Down]({{ site.url }}/assets/images/snowboarding/carving-laiddown.pdf)
-* [Carving Laid Down Backside]({{ site.url }}/assets/images/snowboarding/carving-laiddown-backside.pdf)
-* [Carving Laid Down Frontside]({{ site.url }}/assets/images/snowboarding/carving-laiddown-frontside.pdf)
+* [Carving Axiom](https://yangvincent.com/assets/images/snowboarding/carving-axiom.pdf)
+* [Carving Binding](https://yangvincent.com/assets/images/snowboarding/carving-binding.pdf)
+* [Carving Inclination](https://yangvincent.com/assets/images/snowboarding/carving-inclination.pdf)
+* [Carving Minus Plus](https://yangvincent.com/assets/images/snowboarding/carving-minusplus.pdf)
+* [Carving Position](https://yangvincent.com/assets/images/snowboarding/carving-position.pdf)
+* [Carving Push n Pull](https://yangvincent.com/assets/images/snowboarding/carving-pushnpull.pdf)
+* [Carving Rotation](https://yangvincent.com/assets/images/snowboarding/carving-rotation.pdf)
+* [Carving Snowboard](https://yangvincent.com/assets/images/snowboarding/carving-snowboard.pdf)
+* [Carving Technique](https://yangvincent.com/assets/images/snowboarding/carving-technique.pdf)
+* [Carving Terrain](https://yangvincent.com/assets/images/snowboarding/carving-terrain.pdf)
+* [Carving Vertical](https://yangvincent.com/assets/images/snowboarding/carving-vertical.pdf)
+* [Carving Laid Down](https://yangvincent.com/assets/images/snowboarding/carving-laiddown.pdf)
+* [Carving Laid Down Backside](https://yangvincent.com/assets/images/snowboarding/carving-laiddown-backside.pdf)
+* [Carving Laid Down Frontside](https://yangvincent.com/assets/images/snowboarding/carving-laiddown-frontside.pdf)
 
 
 ## Tricks I'm Working On
