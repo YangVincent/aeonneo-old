@@ -3,7 +3,7 @@ title: About
 ---
 
 Welcome to my notes! Visit the sites at the bottom to learn about the philosophy
-behind them.
+behind them. This page is part of my workflow as depicted in [[The Siphon]].
 
 Thinking about:
 
