@@ -26,3 +26,4 @@ Now that we have this massive post-it board in Keep of ideas, look over them per
 # Synthesizing
 Explain these in an [Evergreen Note](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) 
 or simply a note that works for you. This webpage is my experiment to see if the notes I take are useful in Andy's second brain format. There are several tiers of notes (informational, general observation, synthesized thought, fully fleshed-out ideas), but for now I dump them all into here.
+This is my [[second brain]].
