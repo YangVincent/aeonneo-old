@@ -9,6 +9,7 @@ Welcome to your post-grad 20s!
 * [[Finding Friends]]
 * Finding Hobbies
 * [[Skincare]]
+* [[Bay Area Adulting Timeline]]
 
 # Purpose
 To me, the purpose of your 20s is to put yourself in as many different environments and experiences as possible to observe your true personality to see what you truly enjoy or don't. This is helpful for 
