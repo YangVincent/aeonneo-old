@@ -27,13 +27,14 @@ In general, you want to reduce your taxable income because it allows you to maxi
 The downside of a 401k is (a) if your employer doesn't provide it, you have fewer options, (b) you can't take out the money until retirement (65 or so, although there are exceptions like if it's been in your account for 5 years), and (c) you can
 only invest in what your provider offers (so none of your friends' startups, bitcoin, real estate, etc.)
 
+If your employer allows, you might be able to do a [[megabackdoor]] -- to put even more money in tax-advantaged accounts.
+
 # HSA/FSA
 This is another tax-advantaged account. Maximize the amount you'd put in here because it too can grow without paying capital gains tax. Additionaly, you should save your receipts (and pay them off) for any health appointments now, then reimburse these on the HSA account (which has presumably grown)
 at any point in the future. An HSA is also good because it minimizes your taxable income. The FSA is the same, except that you're required to spend it within the year on select healthcare items (such as contacts or glasses). Only contribute to this whatever you're sure to spend.
 
-# Investment
+# Investment: How do you evaluate a company?
 
-# [[Megabackdoor]]
 
 # Taxes
 
