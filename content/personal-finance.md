@@ -3,7 +3,7 @@ title: Personal Finance
 ---
 
 Congrats on your first job out of college! This is aimed at helping you understand how to navigate the financial world now that you have
-a reasonable source of income.
+a reasonable source of income. If you don't read anything else, follow ![this flowchart](https://i.imgur.com/lSoUQr2.jpg).
 
 # Retirement
 In general, the point of a job (besides personal fulfillment) is to make money for retirement. One common misconception is that you save money to the point that 
