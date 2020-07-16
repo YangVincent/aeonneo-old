@@ -32,3 +32,7 @@ at any point in the future. An HSA is also good because it minimizes your taxabl
 How do you evaluate a company and its future?
 
 # Taxes
+Tax filing for most people is free! [TurboTax Sucks Ass](https://turbotaxsucksass.com).
+
+# Real Estate
+[Rental Analysis Framework](https://drive.google.com/file/d/1orvXqOjqc9Wlh20e_OfLMNPSmDjHaLRt/view?usp=sharing).
