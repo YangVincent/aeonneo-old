@@ -22,6 +22,7 @@ Enjoying:
 * [[Cycling]]
 * [[Snowboarding]]
 * Some of my [[favorite reads]]
+* Other [[hobbies]]
 
 ---
 
