@@ -23,6 +23,6 @@ title: Stanford Web Security
 - [[Websec Lecture 15]]: Managing security in large OSS
 - [[Websec Lecture 16]]: Server security, Safe practices
 - [[Websec Lecture 17]]: Local HTTP server security
-- [[Websec Lecture 16]]: DNS rebinding
-- [[Websec Lecture 16]]: Browser architecture, writing secure code
+- [[Websec Lecture 18]]: DNS rebinding
+- [[Websec Lecture 19]]: Browser architecture, writing secure code
 
