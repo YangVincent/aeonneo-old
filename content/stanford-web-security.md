@@ -5,11 +5,11 @@ title: Stanford Web Security
 - [Course Webpage](https://web.stanford.edu/class/cs253/)
 - [[Websec Lecture 1]]: How does the internet work?
 	- [[Websec Assignment 1]]: https://web.stanford.edu/class/cs253/assign0
-- [[Websec Lecture 2]]: HTTP, Cookies, Sessions
+- [[Websec Lecture 2]]: HTTP, [[Cookies]], Sessions
 - [[Websec Lecture 3]]: Session Attacks
-- [[Websec Lecture 4]]: XSRF, SOP
+- [[Websec Lecture 4]]: [[XSRF]], [[SOP]]
 - [[Websec Lecture 5]]: SOP Exceptions, XSSI
-- [[Websec Lecture 6]]: XSS
+- [[Websec Lecture 6]]: [[XSS]]
 - [[Websec Lecture 7]]: XSS Defenses
 - [[Websec Lecture 8]]: Fingerprinting and Privacy
 	- [[Websec Assignment 2]]: https://web.stanford.edu/class/cs253/assign1
