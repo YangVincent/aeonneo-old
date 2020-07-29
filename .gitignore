@@ -117,3 +117,5 @@ public
 *.DS_Store
 
 .obsidian
+
+*.swp
