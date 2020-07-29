@@ -1,7 +1,7 @@
 ---
 title: Lecture 2
 ---
-# What happens when you type a URL and press enter?
+### What happens when you type a URL and press enter?
 
 ### [[DNS]] (Domain Name Server)
 * We ping the Root Nameserver returns a list of authoritative name servers for the TLD.
@@ -25,6 +25,13 @@ title: Lecture 2
 * Send http request, receive response from the given server
 
 ### Anatomy of an HTTP Request
+```
+GET / HTTP/1.1
+Host: example.com
+
+
+```
+* It's important to have the newlines at the end!
 * Method (GET/POST/PUT)
 * Path (/)
 * Protocol (HTTP/1.1)
