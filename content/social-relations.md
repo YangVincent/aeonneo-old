@@ -18,6 +18,8 @@ Here's my theory on understanding why people do what they do.
 * Influence: The Psychology of Persuasion - Robert Cialdini
 * Predictably Irrational - Dan Ariely
 
+# Funny
+* [[Schelling Points]]
 
 # Comments
 * [Hacker News](https://news.ycombinator.com/item?id=23474644)
