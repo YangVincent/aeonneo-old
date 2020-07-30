@@ -12,6 +12,7 @@ title: Cycling
 
 ### Other Data
 * [Strava Heatmap](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all)
+* [Bay Area Waterfountains](https://www.google.com/maps/d/embed?mid=1Xoz9NCxDO32jY47cuqAt0tTUq7E)
 
 ### Trivia
 * Issus Coleoptratus
