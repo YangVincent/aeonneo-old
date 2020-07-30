@@ -16,3 +16,7 @@ Our brains are good at processing but terrible at storage and recall. Offloading
 * [[CS Interviews]]
 * [[Career]]
 * [[Ethics]]
+
+## Learning
+* [[Security]]
+* [[Conversational AI]]
