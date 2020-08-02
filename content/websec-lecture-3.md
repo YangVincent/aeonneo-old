@@ -1,5 +1,5 @@
 ---
-title: Lecture 3: Session Attacks
+title: Lecture 3 Session Attacks
 ---
 
 
