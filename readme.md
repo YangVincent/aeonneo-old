@@ -4,6 +4,8 @@ Uses https://github.com/aravindballa/gatsby-theme-andy/
 
 ## Running the project
 
+Always use yarn!! Don't mix package managers with npm.
+
 - `yarn`
 - `yarn start`
 
