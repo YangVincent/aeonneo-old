@@ -55,5 +55,10 @@ iframe.contentDocument.cookie
 ```
 Only use path as an optimization!
 
+#### How do we make the cookie `path` secure?
+* No.
+* Cookies can only be accessed by equal or more-specific domains, so use subdomains (e.g. `cs106a.stanford.edu` vs `cs253.stanford.edu`).
+* We just always set `Path=/` and don't ever rely on it. 
+* `Set-Cookie: key=value; Secure; HttpOnly; Path=/`: Set cookie, 
 
 
