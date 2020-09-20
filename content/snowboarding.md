@@ -8,6 +8,7 @@ title: Snowboarding
 * [Up Unweighting](https://yangvincent.com/assets/images/snowboarding/up-unweighting.pdf)
 * [Snowmie Down vs UpUnweighting](https://yangvincent.com/assets/images/snowboarding/snowmie.pdf)
 * [Material](https://yangvincent.com/assets/images/snowboarding/material.pdf)
+* [[Backcountry]]
 
 ## Resources for when I'm Better
 * [Carving Axiom](https://yangvincent.com/assets/images/snowboarding/carving-axiom.pdf)
