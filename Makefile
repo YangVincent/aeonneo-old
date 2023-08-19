@@ -24,5 +24,5 @@ docker: ## Serve locally using Docker
 	docker run -it --volume=$(shell pwd):/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
 
 copy: ## Update from Obsidian Vault
-	cp -r ~/Documents/aeonneo-vault contents/notes
-	cp contents/notes/Home.md contents/_index.md
+	cp -r ~/Documents/aeonneo-vault/notes/* content/notes/
+	cp ~/Documents/aeonneo-vault/Home.md content/_index.md

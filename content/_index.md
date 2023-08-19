@@ -1,27 +1,39 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
 ---
+### Fulfillment
+[[notes/Polly Labs]]
+	 [[notes/FoodCo]]
+	  [[notes/Repurposing Technology]]
+[[notes/Joblio]]
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+### Career
+[[google]]
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+### [[notes/People]]
+[[family]]
+[[relationship]]
+[[friends]]
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+### Health
+[[notes/cooking]]
+[[notes/Fitness]]
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+### Art
+[[music]]
+[[literature]]
+[[film]]
+[[content]]
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+### Self
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+### Meta
+[[notes/My Obsidian Methodology]]
+[[notes/roots]] <- Root nodes for topics
+https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/
+https://github.com/mathieudutour/gatsby-digital-garden
+Make a website with my notes https://github.com/willjhliang/public-garden
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Test with image
+![[notes/Pasted image 20230818114416.png|300]]
 
+[[moc]]

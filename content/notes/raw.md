@@ -1,4 +1,3 @@
 ---
 ---
-
-[notes/raw](raw.md)
+[[notes/raw]]
