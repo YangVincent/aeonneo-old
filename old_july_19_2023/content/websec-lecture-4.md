@@ -1,5 +1,0 @@
----
-title: Lecture 4
----
-
-

@@ -1,5 +1,0 @@
----
-title: Schelling Points
----
-
-
