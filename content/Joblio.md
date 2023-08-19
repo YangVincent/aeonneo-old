@@ -1,4 +1,7 @@
-[[notes/raw]]
+---
+title: "Joblio"
+---
+[[raw]]
 
 ### Ongoing Work
 * Analytics

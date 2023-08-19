@@ -1,4 +1,4 @@
-[[notes/raw]] [[moc]]
+[[raw]] [[moc]]
 
 ### Books
 

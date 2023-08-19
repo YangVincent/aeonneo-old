@@ -1,6 +1,6 @@
-[[notes/raw]]
+[[raw]]
 
-[[notes/Art]]
+[[Art]]
 
 New Mexico
 Red Canna Paintings
@@ -11,5 +11,5 @@ Red Canna Paintings
 * married Stieglitz (who divorced his previous wife as a result), and then had an open relationship. 
 * depressed (hospitalized). Started living in new mexico.
 * 'gender neutral clothing'/broke free of strict gender rules in new mexico
-* friends with [[notes/frieda kahlo]]
+* friends with [[frieda kahlo]]
 * [[women's suffrage]]

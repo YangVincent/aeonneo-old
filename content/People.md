@@ -1,7 +1,10 @@
-[[notes/raw]]
+---
+title: "People"
+---
+[[raw]]
 
 ### CRM
-[[aileen wang]]
+[[private/aileen wang]]
 [[chiming yang]]
 [[kevin yang]]
 [[shuyuan yang]]

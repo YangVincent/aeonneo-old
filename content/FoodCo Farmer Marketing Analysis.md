@@ -1,3 +1,3 @@
-[[notes/raw]]
+[[raw]]
 
 https://www.cultivatingyourmarket.com/

@@ -1,3 +1,4 @@
 ---
+title: "raw"
 ---
-[[notes/raw]]
+[[raw]]

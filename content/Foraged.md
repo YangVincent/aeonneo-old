@@ -1,4 +1,4 @@
-[[notes/raw]]
+[[raw]]
 
 https://www.foraged.com/categories
 

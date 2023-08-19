@@ -1,5 +1,6 @@
 ---
+title: "roots"
 ---
-[[notes/raw]]
+[[raw]]
 
-[[notes/agriculture]]
+[[agriculture]]

@@ -1,10 +1,10 @@
-[[notes/raw]]
+[[raw]]
 
 https://www.notion.so/aeonneo/Segmentations-705e25e58b5243e5853e1f5c13ff5702?pvs=4#aacc702bb95d4ade8da1f72944207e0a
 
 * Many cafeterias are no longer independently operated, but turn to food service companies. The big three are Aramark, Chartwells, and Sodexo. These only buy from local farmers when it happens through preferred distributors, like Sysco. 
 * Independently operated cafeterias and regional food service companies (Epicurean Feast) and Guckenheimer are more inclined to buy directly from farmers.
-* Food Hub Logistics https://redtomato.org/regional-supply-chain/logistics/ [[notes/Red Tomato Food Hub]]
+* Food Hub Logistics https://redtomato.org/regional-supply-chain/logistics/ [[Red Tomato Food Hub]]
 	* Distribution Center Model
 	* Plan B -- direct store delivery (rely on distribution partners).
 	* List of food hubs: ams.usda.gov/market-news
@@ -34,11 +34,11 @@ https://www.notion.so/aeonneo/Segmentations-705e25e58b5243e5853e1f5c13ff5702?pvs
 * Farm Marketing Analysis: https://dyson.cornell.edu/wp-content/uploads/sites/5/2019/02/smart-marketing-2017-05.pdf
 * More than 80% of all direct market food sales occurred within 100m of the farm.
 * CSA contributed only 7.5% of total direct marketing sales. CSAs aren't for every farm, but for the ones who do, they are a sizable portion (26.2% income).
-* ![[notes/Pasted image 20230819004933.png|300]]
+* ![[Pasted image 20230819004933.png|300]]
 
-[[notes/Food Hub]]
-[[notes/Red Tomato Food Hub]]
+[[Food Hub]]
+[[Red Tomato Food Hub]]
 
 ### Marketing Resources
 https://dyson.cornell.edu/outreach/smart-marketing-newsletter/
-![[notes/Pasted image 20230819005144.png|300]]
+![[Pasted image 20230819005144.png|300]]

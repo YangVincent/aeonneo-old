@@ -1,5 +1,6 @@
 ---
+title: "agriculture"
 ---
-[[notes/raw]]
+[[raw]]
 
-[[notes/FoodCo]]
+[[FoodCo]]

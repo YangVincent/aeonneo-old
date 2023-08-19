@@ -1,20 +1,20 @@
 [Competitor Table Link](https://docs.google.com/spreadsheets/d/18ldRHeu0r6GMPUvZECnZtch3S8awr0LfwKN9ceS7anI/edit?usp=sharing)
 <iframe src="https://docs.google.com/spreadsheets/d/18ldRHeu0r6GMPUvZECnZtch3S8awr0LfwKN9ceS7anI/edit?usp=sharing" width="1200" height="800"></iframe>
 
-[[notes/Seven Suns]]
-[[notes/Barn2Door]]
-[[notes/Bold Salt Lick]]
+[[Seven Suns]]
+[[Barn2Door]]
+[[Bold Salt Lick]]
 [Complaint about Barn2Door](https://www.facebook.com/groups/134018140298600/posts/1448269525540115/)
-[[notes/Eat From Farms]]
+[[Eat From Farms]]
 EcWID
-[[notes/Food4All]]
+[[Food4All]]
 [[Meicai]]
 * Some startup on pitchbook in North Kingston
 * Some startup in Mosca, CO (Probably Local Orbit)
-[[notes/Local Orbit]]
-[[notes/Ambrook]]
-[[notes/Local Food Marketplace]]
-[[notes/Foraged]]
+[[Local Orbit]]
+[[Ambrook]]
+[[Local Food Marketplace]]
+[[Foraged]]
 
 * Out of business
 	* https://www.instagram.com/sourcewhatsgood/?hl=en

@@ -1,4 +1,5 @@
 ---
+title: "My Obsidian Methodology"
 ---
 * Projects are denoted by tags. This segments how I think about my life, and can be quickly changed. 
 * Ideas are linked by topic (wikipedia-style).

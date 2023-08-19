@@ -1,4 +1,4 @@
-[[notes/raw]]
+[[raw]]
 
 https://dyson.cornell.edu/wp-content/uploads/sites/5/2019/03/smart-marketing-2019-03.pdf
 
@@ -8,4 +8,4 @@ https://dyson.cornell.edu/wp-content/uploads/sites/5/2019/03/smart-marketing-201
 	* Labor costs are higher for CEA supply chains. 
 	* CEA lettuce supply chains also have more inefficient water use.
 
-[[notes/agriculture]]
+[[agriculture]]

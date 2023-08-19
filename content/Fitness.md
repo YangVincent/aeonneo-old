@@ -1,4 +1,4 @@
-[[notes/raw]]
+[[raw]]
 
 ###### Workouts
 [foundation training](https://www.youtube.com/watch?v=4BOTvaRaDjI)

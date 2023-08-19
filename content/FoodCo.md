@@ -1,15 +1,18 @@
+---
+title: "FoodCo"
+---
 # Overview
-FoodCo is a project I'm working on within [[notes/Polly Labs]]
+FoodCo is a project I'm working on within [[Polly Labs]]
 
 ### TODOs
 * Develop competitor analysis table
 
-[[notes/FoodCo Competitor Analysis]]
-[[notes/FoodCo Distributor Analysis]]
-[[notes/FoodCo Price Analysis]]
-[[notes/FoodCo Farmer Marketing Analysis]]
-[[notes/FoodCo Customer Analysis]]
-[[notes/CSA]]
+[[FoodCo Competitor Analysis]]
+[[FoodCo Distributor Analysis]]
+[[FoodCo Price Analysis]]
+[[FoodCo Farmer Marketing Analysis]]
+[[FoodCo Customer Analysis]]
+[[CSA]]
 ### Other
 tend.ag
 

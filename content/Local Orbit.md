@@ -1,4 +1,7 @@
-[[notes/raw]]
+---
+title: "Local Orbit"
+---
+[[raw]]
 
 tl;dr: Local orbit helps you run a food hub. You can manage multiple marketplaces, price goods, create inventory/route planningjjjk
 

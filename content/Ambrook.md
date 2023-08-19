@@ -1,4 +1,4 @@
-[[notes/raw]]
+[[raw]]
 
 Accounting software to run a farm
 

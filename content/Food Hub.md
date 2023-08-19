@@ -1,4 +1,4 @@
-[[notes/raw]]
+[[raw]]
 
 * To establish a food hub, a county needs around 182k residents to break even, but a wholesaler only needs 105k. 
 * Roughly 500k residents are necessary for a 2nd food hub, and 3x more to sustain a 3rd (compared to 190k and 342k for a 2nd and 3rd wholesaler).

@@ -1,3 +1,4 @@
 ---
+title: "cooking"
 ---
-[[notes/raw]]
+[[raw]]

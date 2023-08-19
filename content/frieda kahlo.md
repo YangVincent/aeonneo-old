@@ -1,11 +1,12 @@
 ---
+title: "frieda kahlo"
 ---
-[[notes/raw]]
+[[raw]]
 
-[[notes/Art]]
+[[Art]]
 
 * mexican painter
 * [[Mexicayotl Movement]]
 * Mexican communist party
 * Icon for Chicanos, feminism, and LGBTQ+ community
-* Derived inspiration from [[notes/Hieronymus Bosch]]
+* Derived inspiration from [[Hieronymus Bosch]]

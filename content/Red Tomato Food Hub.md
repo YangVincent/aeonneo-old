@@ -1,4 +1,7 @@
-[[notes/raw]]
+---
+title: "Red Tomato Food Hub"
+---
+[[raw]]
 
 https://redtomato.org/regional-supply-chain/logistics/
 
