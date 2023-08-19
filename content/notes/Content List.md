@@ -1,4 +1,7 @@
-[[raw]] [[moc]]
+---
+---
+
+[notes/raw](raw.md) *moc*
 
 ### Books
 

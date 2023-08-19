@@ -1,12 +1,16 @@
-[[raw]]
+---
+---
+
+[notes/raw](raw.md)
 
 ### CRM
-[[aileen wang]]
-[[chiming yang]]
-[[kevin yang]]
-[[shuyuan yang]]
 
-[[jon purizhansky]]
-[[alina shkolnikov]]
+*aileen wang*
+*chiming yang*
+*kevin yang*
+*shuyuan yang*
 
-[[cat xu]]
+*jon purizhansky*
+*alina shkolnikov*
+
+*cat xu*

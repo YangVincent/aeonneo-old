@@ -1,6 +1,9 @@
+---
+---
+
 Polly Labs is an impact venture incubator. 
 
-[[FoodCo]]
-[[Repurposing Technology]]
+[notes/FoodCo](FoodCo.md)
+[notes/Repurposing Technology](Repurposing%20Technology.md)
 
-[[moc]]
+*moc*

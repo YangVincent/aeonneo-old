@@ -1,9 +1,12 @@
-[[raw]]
+---
+---
 
-[[art]]
+[notes/raw](raw.md)
+
+[notes/Art](Art.md)
 
 * mexican painter
-* [[Mexicayotl Movement]]
+* *Mexicayotl Movement*
 * Mexican communist party
 * Icon for Chicanos, feminism, and LGBTQ+ community
-* Derived inspiration from [[Hieronymus Bosch]]
+* Derived inspiration from [notes/Hieronymus Bosch](Hieronymus%20Bosch.md)

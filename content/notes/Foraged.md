@@ -1,4 +1,7 @@
-[[raw]]
+---
+---
+
+[notes/raw](raw.md)
 
 https://www.foraged.com/categories
 
