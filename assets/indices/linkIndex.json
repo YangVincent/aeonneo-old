@@ -29,8 +29,8 @@
         },
         {
           "source": "/",
-          "target": "/People",
-          "text": "People"
+          "target": "/private/People",
+          "text": "private/People"
         },
         {
           "source": "/",
@@ -74,8 +74,8 @@
         },
         {
           "source": "/",
-          "target": "/content",
-          "text": "content"
+          "target": "/Content-List",
+          "text": "Content List"
         },
         {
           "source": "/",
@@ -405,8 +405,8 @@
         },
         {
           "source": "/Home",
-          "target": "/People",
-          "text": "People"
+          "target": "/private/People",
+          "text": "private/People"
         },
         {
           "source": "/Home",
@@ -450,8 +450,8 @@
         },
         {
           "source": "/Home",
-          "target": "/content",
-          "text": "content"
+          "target": "/Content-List",
+          "text": "Content List"
         },
         {
           "source": "/Home",
@@ -686,6 +686,18 @@
           "text": "CSA"
         }
       ],
+      "/Content-List": [
+        {
+          "source": "/Home",
+          "target": "/Content-List",
+          "text": "Content List"
+        },
+        {
+          "source": "/",
+          "target": "/Content-List",
+          "text": "Content List"
+        }
+      ],
       "/Eat-From-Farms": [
         {
           "source": "/FoodCo-Competitor-Analysis",
@@ -842,18 +854,6 @@
           "text": "My Obsidian Methodology"
         }
       ],
-      "/People": [
-        {
-          "source": "/Home",
-          "target": "/People",
-          "text": "People"
-        },
-        {
-          "source": "/",
-          "target": "/People",
-          "text": "People"
-        }
-      ],
       "/Polly-Labs": [
         {
           "source": "/FoodCo",
@@ -938,18 +938,6 @@
           "source": "/People",
           "target": "/chiming-yang",
           "text": "chiming yang"
-        }
-      ],
-      "/content": [
-        {
-          "source": "/Home",
-          "target": "/content",
-          "text": "content"
-        },
-        {
-          "source": "/",
-          "target": "/content",
-          "text": "content"
         }
       ],
       "/cooking": [
@@ -1089,6 +1077,18 @@
           "source": "/",
           "target": "/music",
           "text": "music"
+        }
+      ],
+      "/private/People": [
+        {
+          "source": "/Home",
+          "target": "/private/People",
+          "text": "private/People"
+        },
+        {
+          "source": "/",
+          "target": "/private/People",
+          "text": "private/People"
         }
       ],
       "/private/aileen-wang": [
@@ -1573,8 +1573,8 @@
     },
     {
       "source": "/Home",
-      "target": "/People",
-      "text": "People"
+      "target": "/private/People",
+      "text": "private/People"
     },
     {
       "source": "/Home",
@@ -1618,8 +1618,8 @@
     },
     {
       "source": "/Home",
-      "target": "/content",
-      "text": "content"
+      "target": "/Content-List",
+      "text": "Content List"
     },
     {
       "source": "/Home",
@@ -1748,8 +1748,8 @@
     },
     {
       "source": "/",
-      "target": "/People",
-      "text": "People"
+      "target": "/private/People",
+      "text": "private/People"
     },
     {
       "source": "/",
@@ -1793,8 +1793,8 @@
     },
     {
       "source": "/",
-      "target": "/content",
-      "text": "content"
+      "target": "/Content-List",
+      "text": "Content List"
     },
     {
       "source": "/",

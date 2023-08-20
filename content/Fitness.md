@@ -1,3 +1,6 @@
+---
+title: "Fitness"
+---
 [[raw]]
 
 ###### Workouts

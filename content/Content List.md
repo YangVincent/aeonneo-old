@@ -1,3 +1,6 @@
+---
+title: "Content List"
+---
 [[raw]] [[moc]]
 
 ### Books

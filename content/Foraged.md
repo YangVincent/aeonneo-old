@@ -1,3 +1,6 @@
+---
+title: "Foraged"
+---
 [[raw]]
 
 https://www.foraged.com/categories

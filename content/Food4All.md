@@ -1,3 +1,6 @@
+---
+title: "Food4All"
+---
 [[raw]]
 
 * Make it easy to sell local food online, build relationships, improve margins. Gain loyal customers.

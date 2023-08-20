@@ -1,4 +1,5 @@
 ---
+title: "Home"
 ---
 ### Fulfillment
 [[Polly Labs]]
@@ -9,7 +10,8 @@
 ### Career
 [[google]]
 
-### [[People]]
+### People
+[[private/People]]
 [[family]]
 [[relationship]]
 [[friends]]
@@ -22,7 +24,7 @@
 [[music]]
 [[literature]]
 [[film]]
-[[content]]
+[[Content List]]
 
 ### Self
 
@@ -37,3 +39,6 @@ Test with image
 ![[Pasted image 20230818114416.png|300]]
 
 [[moc]]
+
+Test update with hooks3
+home update2
